@@ -10,7 +10,7 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [Spam filtering](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#spam-filtering)
 * [Encrypted traffic analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#encrypted-traffic-analysis)
 * [Fraud detection](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#fraud-detection)
-* [User Identification and Authentication]
+* [User Identification and Authentication](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#user-identification-and-authentication)
 
 ## Network Intrusion Detection
 * [KDD Cup 1999:](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) was created based on the DARPA 1998 dataset and inherit the same problems. Nevertheless, it is one of the most employed datasets until now for network intrusion detection. KDDCup99 includes full-packet data, break into subsets for training and testing. The network traffic is labeled in five classes: Normal, Probe, User to Root attacks, Remote to Local attacks, and DoS attacks. 
