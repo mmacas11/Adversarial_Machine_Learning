@@ -69,3 +69,6 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [IEEE-CIS:](https://www.kaggle.com/c/ieee-fraud-detection) is real-world e-commerce transaction data containing 590,540 transactions where 20,663 are fraud.
 
 ## User Identification and Authentication
+* [Balabit:](https://github.com/balabit/Mouse-Dynamics-Challenge) includes the timing and positioning information of mouse pointers.
+* [Makeup:](https://biic.wvu.edu/data-sets/makeup-dataset) is a dataset of unpaired before and after makeup images.
+* [TWOS:](https://awesomeopensource.com/project/ivan-homoliak-sutd/twos) is composed of normal and malicious activities collected from several host-based heterogeneous data sources (such as a mouse, keyboard, processes, and file system).
