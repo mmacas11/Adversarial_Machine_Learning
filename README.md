@@ -3,12 +3,12 @@
 Attackers demonstrate the performance of their adversarial attacks based on different datasets and victim models. This brings obstacles to objectively evaluating the adversarial attacks and measuring the robustness of deep learning models. In particular, large and high-quality datasets usually make it hard for adversaries/defenders to attack/defend. In this subsection, we provide an overview of the most prominent datasets employed in building DL-based defense systems and using adversarial machine learning approaches in the cybersecurity domain, organized per specific application/category. Herein, we can find a curated list of cybersecurity datasets.
 
 ## Table of contents
-* [Network Intrusion Detection](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#network-intrusion-detection)
-* [Malware detection and analysis](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#malware-detection-and-analysis)
-* [Botnet detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
-* [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#cyber-physical-system-cps-security)
-* [Spam filtering](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#spam-filtering)
-* [Encrypted traffic analysis](https://github.com/mmacas11/Cybersecurity-Datasets/blob/main/README.md#encrypted-traffic-analysis)
+* [Network Intrusion Detection](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#network-intrusion-detection)
+* [Malware detection and analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#malware-detection-and-analysis)
+* [Botnet detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
+* [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#cyber-physical-system-cps-security)
+* [Spam filtering](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#spam-filtering)
+* [Encrypted traffic analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#encrypted-traffic-analysis)
 
 ## Network Intrusion Detection
 * [KDD Cup 1999:](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) was created based on the DARPA 1998 dataset and inherit the same problems. Nevertheless, it is one of the most employed datasets until now for network intrusion detection. KDDCup99 includes full-packet data, break into subsets for training and testing. The network traffic is labeled in five classes: Normal, Probe, User to Root attacks, Remote to Local attacks, and DoS attacks. 
