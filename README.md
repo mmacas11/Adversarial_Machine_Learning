@@ -9,6 +9,7 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#cyber-physical-system-cps-security)
 * [Spam filtering](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#spam-filtering)
 * [Encrypted traffic analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#encrypted-traffic-analysis)
+* [Fraud detection]()
 
 ## Network Intrusion Detection
 * [KDD Cup 1999:](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) was created based on the DARPA 1998 dataset and inherit the same problems. Nevertheless, it is one of the most employed datasets until now for network intrusion detection. KDDCup99 includes full-packet data, break into subsets for training and testing. The network traffic is labeled in five classes: Normal, Probe, User to Root attacks, Remote to Local attacks, and DoS attacks. 
@@ -60,3 +61,8 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [ISCX Tor-nonTor:](https://www.unb.ca/cic/datasets/tor.html) was created available by the Canadian Institute for Cybersecurity. Three users were used for browser traffic collection and two users for communication (mail, FTP, etc.). There are eight different categories for TOR traffic: Browsing, audio, video, chat, mail, VoIP, FTP, and P2P.
 * [Open HTTPS:](http://betternet.lhs.loria.fr/datasets/https/index.html) was constructed by crawling HTTPS websites over two weeks (September 2016). It contains full HTTPS raw PCAP files of crawling top 779 accessed HTTPS websites. The scan was made daily based, two times per day using Goolge Chrome and Mozilla Firefox Web browsers.
 * [QUIC:](https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE) was captured at the University of California at Davis, which contains QUIC traffic of 5 Google services: Google Doc (1251 flows), Google Drive (1664 flows), Google Music (622 flows), Youtube (1107 flows), Google Search (1945 flows). The dataset contains time-series features: packet length, relative time, and direction. The dataset has already been pre-processed. 
+
+## Fraud detection
+* [German Credit Data:](https://www.kaggle.com/datasets/uciml/german-credit) classifies people into good or bad credit risks.
+* [EC:](https://github.com/balabit/Mouse-Dynamics-Challenge) has 284,807 transactions spanning over a few days. Out of these, 492 transactions are fraud.
+* [IEEE-CIS:](https://www.kaggle.com/c/ieee-fraud-detection) is real-world e-commerce transaction data containing 590,540 transactions where 20,663 are fraud.
