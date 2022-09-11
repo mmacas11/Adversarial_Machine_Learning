@@ -4,12 +4,12 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 
 ## Table of contents
 * [Network Intrusion Detection](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#network-intrusion-detection)
-* [Malware detection and analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#malware-detection-and-analysis)
-* [Botnet detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
+* [Malware Detection and Analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#malware-detection-and-analysis)
+* [Botnet Detection and Domain Generation Algorithms (DGAs)](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#botnet-detection-and-domain-generation-algorithms-dgas)
 * [Cyber-Physical System (CPS) Security](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#cyber-physical-system-cps-security)
-* [Spam filtering](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#spam-filtering)
-* [Encrypted traffic analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#encrypted-traffic-analysis)
-* [Fraud detection](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#fraud-detection)
+* [Spam Filtering](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#spam-filtering)
+* [Encrypted Traffic Analysis](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#encrypted-traffic-analysis)
+* [Fraud Detection](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#fraud-detection)
 * [User Identification and Authentication](https://github.com/mmacas11/Adversarial_Machine_Learning/blob/main/README.md#user-identification-and-authentication)
 
 ## Network Intrusion Detection
