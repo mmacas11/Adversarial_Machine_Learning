@@ -65,7 +65,7 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 
 ## Fraud detection
 * [German Credit Data:](https://www.kaggle.com/datasets/uciml/german-credit) classifies people into good or bad credit risks.
-* [EC:](www.ulb.ac.be/di/map/adalpozz/imbalanced-datasets.zip) has 284,807 transactions spanning over a few days. Out of these, 492 transactions are fraud.
+* [European Card:](www.ulb.ac.be/di/map/adalpozz/imbalanced-datasets.zip) has 284,807 transactions spanning over a few days. Out of these, 492 transactions are fraud.
 * [IEEE-CIS:](https://www.kaggle.com/c/ieee-fraud-detection) is real-world e-commerce transaction data containing 590,540 transactions where 20,663 are fraud.
 
 ## User Identification and Authentication
