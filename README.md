@@ -55,7 +55,7 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [GTSRB:](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 * [Airsim:](https://microsoft.github.io/AirSim/)
 * [Nuscenes:](https://www.nuscenes.org/)
-* [Apolloscape:](https://apolloscape.auto/)
+* [Apolloscape:](https://apolloscape.auto/)  is part of the Apollo project for autonomous driving, is a research-oriented project to foster innovations in all aspects of autonomous driving, from perception and navigation to control. It hosts open access to semantically annotated (pixel-level) street view images and simulation tools that support user-defined policies. It is an evolving project in new datasets, and new capabilities will be added regularly. Various workshops and challenges will be hosted to encourage exchanges of ideas and jointly advance the state of the art in autonomous driving research.
 
 ## Spam filtering
 * [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/) is an extensive collection of annotated spam/nonspam hosts labeled by a group of volunteers. The base data is a set of 105,9M pages in 114,529 hosts in the—UK domain. The data was downloaded in May 2007 by the Laboratory of Web Algorithmics, Università Degli Studi di Milano.
