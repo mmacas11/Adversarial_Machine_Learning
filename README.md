@@ -50,6 +50,12 @@ Attackers demonstrate the performance of their adversarial attacks based on diff
 * [WADI:](https://itrust.sutd.edu.sg/testbeds/water-distribution-wadi/) was built by the authors of SWaT \cite{goh2016dataset} and contains several large water tanks that supply water to consumer tanks. The dataset contains 15 attacks whose goal is to stop the water supply to the consumer tanks. The attacks were conducted by opening valves and spoofing sensors readings, and partially concealed. WADI is significantly larger than the SWaT and BATADAL dataset, contains 1.221.372 data points (full dataset) and 126 features. WADI is available upon request. 
 * [ICS Cyber Attack Power System Datasets:](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets) This dataset is split into three smaller datsets, which include measurements related to electric transmission system normal, disturbance, control, cyber attack behaviors. Measurements in the dataset include synchrophasor measurements and data logs from Snort, a simulated control panel, and relays.
 * [HAI:](https://github.com/icsdataset/hai) was collected from a realistic industiral control system (ICS) testbed augmented with a Hardware-In-the-Loop (HIL) simulator that emulates steam-turbine power generation and pumped-storage hydropower generation.
+* [Udacity:](https://public.roboflow.com/object-detection/self-driving-car)
+* [Cityscapes:](https://www.cityscapes-dataset.com/)
+* [GTSRB:](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+* [Airsim:](https://microsoft.github.io/AirSim/)
+* [Nuscenes:](https://www.nuscenes.org/)
+* [Apolloscape:](https://apolloscape.auto/)
 
 ## Spam filtering
 * [WEBSPAM-UK2007:](https://chato.cl/webspam/datasets/uk2007/) is an extensive collection of annotated spam/nonspam hosts labeled by a group of volunteers. The base data is a set of 105,9M pages in 114,529 hosts in the—UK domain. The data was downloaded in May 2007 by the Laboratory of Web Algorithmics, Università Degli Studi di Milano.
